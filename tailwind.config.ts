@@ -8,22 +8,22 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: "#20181A",
-        wine: "#7A2032",
-        berry: "#A33B52",
-        linen: "#F7F0E8",
-        fog: "#F4F4F2",
+        ink: "#24191C",
+        wine: "#711D34",
+        berry: "#9B3851",
+        linen: "#F6F0EC",
+        fog: "#F5F5F3",
         mist: "#D9D5D0",
-        sage: "#77856E",
-        blush: "#E9C9CC"
+        sage: "#687665",
+        blush: "#F0CBD2"
       },
       fontFamily: {
-        heading: ["Montserrat", "Arial", "sans-serif"],
-        body: ["Poppins", "Arial", "sans-serif"]
+        heading: ["Iowan Old Style", "Palatino Linotype", "Georgia", "serif"],
+        body: ["Aptos", "Segoe UI", "Arial", "sans-serif"]
       },
       boxShadow: {
-        soft: "0 24px 80px rgba(32, 24, 26, 0.12)",
-        glow: "0 18px 48px rgba(122, 32, 50, 0.22)"
+        soft: "0 24px 70px rgba(36, 25, 28, 0.1)",
+        glow: "0 18px 48px rgba(113, 29, 52, 0.2)"
       }
     }
   },

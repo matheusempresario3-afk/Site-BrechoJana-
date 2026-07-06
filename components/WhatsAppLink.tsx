@@ -1,12 +1,7 @@
 import type { ReactNode } from "react";
+import { createWhatsAppUrl } from "@/lib/site-config";
 
-const phone = "5519991915448";
-const defaultText =
-  "Olá, vim pelo site da Jana Viana Brechó e quero planejar uma visita à loja.";
-
-export function whatsappUrl(message = defaultText) {
-  return `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
-}
+export const whatsappUrl = createWhatsAppUrl;
 
 type WhatsAppLinkProps = {
   children: ReactNode;
@@ -23,7 +18,7 @@ export function WhatsAppLink({
 }: WhatsAppLinkProps) {
   return (
     <a
-      href={whatsappUrl(message)}
+      href={createWhatsAppUrl(message)}
       target="_blank"
       rel="noreferrer"
       aria-label={ariaLabel}

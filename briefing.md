@@ -16,19 +16,19 @@ A compra em brechó nasce do desejo de garimpar uma peça bonita, diferente e ac
 
 ## Arquitetura escolhida
 
-- Modelo de conversão principal: vitrine de achadinhos com prova de loja física e triagem simples para visita/WhatsApp.
-- Ação principal esperada: planejar visita à loja física e, em seguida, chamar no WhatsApp para confirmar novidades ou pedir orientação.
-- Conceito da página: este site deve parecer uma página de brechó boutique local, não uma página comercial genérica.
+- Modelo de conversão principal: vitrine editorial de achados com caminhos recorrentes para WhatsApp, Instagram, grupo de novidades e atendimento presencial.
+- Ação principal esperada: iniciar uma conversa no WhatsApp para descobrir o que está disponível hoje.
+- Conceito da página: este site deve parecer uma vitrine de garimpo local para toda a família, não uma página comercial genérica nem uma loja virtual.
 - Sites existentes usados como contraexemplo: Código Fatal Modas.
 - O que não repetir das demos existentes: não repetir uma primeira dobra em tela cheia de loja de moda com foco em "consultar disponibilidade", não usar a mesma ordem primeira dobra editorial -> categorias -> novidades -> benefícios -> como funciona -> depoimentos -> chamada final, não usar a mesma mecânica de grade de produto com botão individual, não repetir tom de boutique convencional sem endereço como prova central.
-- Direção de layout: vitrine/catálogo de garimpo com eixo de visita física.
-- Mecânica comercial dominante: mosaico de achadinhos da semana e triagem simples para montar uma mensagem de visita pelo WhatsApp.
-- Ritmo visual: visual e aspiracional, acolhedor e boutique, com blocos de loja local e contato frequente.
-- Seções essenciais: primeira dobra com endereço e rota, garimpo por família, mural de achadinhos, triagem de visita, prova de loja física, Instagram simulado, mapa/localização, chamada final.
-- Seções evitadas: loja virtual, carrinho, promessa de estoque fixo, preços obrigatórios em todos os itens, depoimentos tratados como reais sem validação, formulário complexo.
+- Direção de layout: vitrine editorial com imagens em proporções variadas, etiquetas de categoria inspiradas em araras e blocos de conversão curtos.
+- Mecânica comercial dominante: mosaico de novidades, categorias para toda a família e triagem simples que transforma interesse em mensagem de WhatsApp.
+- Ritmo visual: fashion e acolhedor, com branco predominante, vinho como assinatura, imagens quentes e alternância entre áreas amplas e listas compactas.
+- Seções essenciais: primeira dobra com marca e canais de contato, categorias, diferenciais, triagem, mosaico de novidades, sobre, grupo de novidades, contato local e chamada final.
+- Seções evitadas: carrinho, pagamento, preços fixos, promessa de estoque, promoções permanentes, avaliações fictícias e formulário complexo.
 - Componente específico do nicho: sistema de triagem simples por interesse, tamanho/faixa e objetivo, gerando mensagem pronta para WhatsApp.
-- Primeira dobra planejada: imagem aspiracional de moda/brechó em tela cheia, marca Jana Viana, foco "brechó boutique no Centro de Monte Mor", chamada principal "Planejar visita à loja" e chamada secundária para Instagram, com endereço visível como prova imediata.
-- Por que este site não segue o template padrão: a conversão não depende de apresentar serviços ou uma empresa bonita; depende de fazer a cliente sentir que a visita vale a pena, que existe variedade para família inteira e que a loja física é confiável. Por isso a página prioriza garimpo, rota, triagem e Instagram, em vez de uma sequência institucional comum.
+- Primeira dobra planejada: foto de uma arara realista em tela ampla, texto à esquerda, área de marca à direita e três caminhos claros: Instagram, WhatsApp e categorias.
+- Por que este site não segue o template padrão: o visitante não escolhe um serviço nem compra um item de estoque fixo; ele precisa perceber variedade e sentir vontade de acompanhar os achados. Por isso a página começa pela marca e pelo universo visual, organiza famílias de produtos e repete canais de descoberta ao longo da navegação.
 
 ## Respostas 80/20 usadas
 
@@ -60,6 +60,8 @@ A compra em brechó nasce do desejo de garimpar uma peça bonita, diferente e ac
 - Moda plus size
 - Calçados
 - Acessórios
+- Livros
+- Roupas para pets
 - Peças novas
 - Peças seminovas
 - Loja física em Monte Mor
